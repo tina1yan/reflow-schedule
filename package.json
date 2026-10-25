@@ -1,0 +1,1 @@
+{"name":"reflow-schedule","version":"0.2.0","private":true,"description":"Adjustable scheduling and participant coordination playground","scripts":{"test":"node --test engine.test.cjs workflow.test.cjs","build":"node build.cjs && node build-worker.cjs"}}
